@@ -2,7 +2,7 @@
 
  Copyright © 2024 dreamily All Rights Reserved.
 
-[Github](https://seahipage.gitee.io)
+[Github](https://github.com/mhya123/Dreamily-wiki)
 [Get Started](README.md)
 
 
