@@ -1,9 +1,9 @@
 ## 梦幻BDS整合包下载
 
 ```bash
-海外用户：
+海外用户：https://drive.google.com/drive/folders/1t5jb7uJJJrIrI_Ic0ixJ71Z_Q4tOARdV?usp=sharing
 
-国内用户：https://www.123pan.com/s/LFv0Vv-IJRx.html
+国内用户：[https://www.123pan.com/s/LFv0Vv-IJRx.html](https://www.123684.com/s/IN4DVv-1ECp3?提取码:TCAs)
 
 ```
 ---
