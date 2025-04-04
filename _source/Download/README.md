@@ -17,3 +17,11 @@
 国内用户：https://www.123pan.com/s/IN4DVv-bbnp3.html
 
 ```
+## 梦幻优化合包下载
+
+```bash
+（一号链接）海外用户：https://drive.google.com/drive/folders/1mp0K119JKy_ZyXvTIpZfRfZcVXL3i1JF?usp=sharing
+
+国内用户：https://www.123684.com/s/IN4DVv-bcCp3
+
+```
