@@ -5,4 +5,4 @@
 若在网盘没看到 6.0.1 请等待上传
 - 我们对更新程序进行了更新
 
-https://www.minebbs.com/resources/paper-new.4663/
+整合包发布：https://www.minebbs.com/resources/paper-new.4663/
