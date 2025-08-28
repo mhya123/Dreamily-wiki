@@ -6,4 +6,4 @@
 
 * [QQ群](https://qm.qq.com/q/9agYCU10kg)
   
-* [netlify]((https://www.netlify.com/))
+* [netlify](https://www.netlify.com/)
